@@ -1,0 +1,11 @@
+C:\Users\kbpat\OneDrive\Desktop\Baps\DotNet_Projects\CrudByOnionArchitecture\DemoLayer\bin\Debug\net8.0\DemoLayer.deps.json
+C:\Users\kbpat\OneDrive\Desktop\Baps\DotNet_Projects\CrudByOnionArchitecture\DemoLayer\bin\Debug\net8.0\DemoLayer.dll
+C:\Users\kbpat\OneDrive\Desktop\Baps\DotNet_Projects\CrudByOnionArchitecture\DemoLayer\bin\Debug\net8.0\DemoLayer.pdb
+C:\Users\kbpat\OneDrive\Desktop\Baps\DotNet_Projects\CrudByOnionArchitecture\DemoLayer\obj\Debug\net8.0\DemoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbpat\OneDrive\Desktop\Baps\DotNet_Projects\CrudByOnionArchitecture\DemoLayer\obj\Debug\net8.0\DemoLayer.AssemblyInfoInputs.cache
+C:\Users\kbpat\OneDrive\Desktop\Baps\DotNet_Projects\CrudByOnionArchitecture\DemoLayer\obj\Debug\net8.0\DemoLayer.AssemblyInfo.cs
+C:\Users\kbpat\OneDrive\Desktop\Baps\DotNet_Projects\CrudByOnionArchitecture\DemoLayer\obj\Debug\net8.0\DemoLayer.csproj.CoreCompileInputs.cache
+C:\Users\kbpat\OneDrive\Desktop\Baps\DotNet_Projects\CrudByOnionArchitecture\DemoLayer\obj\Debug\net8.0\DemoLayer.dll
+C:\Users\kbpat\OneDrive\Desktop\Baps\DotNet_Projects\CrudByOnionArchitecture\DemoLayer\obj\Debug\net8.0\refint\DemoLayer.dll
+C:\Users\kbpat\OneDrive\Desktop\Baps\DotNet_Projects\CrudByOnionArchitecture\DemoLayer\obj\Debug\net8.0\DemoLayer.pdb
+C:\Users\kbpat\OneDrive\Desktop\Baps\DotNet_Projects\CrudByOnionArchitecture\DemoLayer\obj\Debug\net8.0\ref\DemoLayer.dll
